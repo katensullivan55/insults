@@ -1,1 +1,1 @@
-window.alert("This is an alert! You are a nerd!" + image);
+window.alert("This is an alert! You are a nerd!");
